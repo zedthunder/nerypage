@@ -218,7 +218,7 @@ body{
 }
 /* site responsivo */
 
-@media (max-width: 1080px){
+@media (max-width: 960px){
     #title{
         text-align: center;
     }
