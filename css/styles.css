@@ -218,13 +218,23 @@ body{
 }
 /* site responsivo */
 
-@media (max-width: 1180px){
+@media (max-width: 1080px){
     #title{
         text-align: center;
     }
+    .big-heading{
+        font-family:"Montserrat", sans-serif;
+        font-size: 2rem;
+        line-height: 1.5;        
+        font-weight: 900;   
+    }
+    .haga3{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
     .imageTitle{
         position: static;
         transform: rotate(0);
-        width: 50%;
+        width: 70%;
     }
 }
