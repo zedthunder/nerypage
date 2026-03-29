@@ -63,6 +63,7 @@ body{
     padding: 0% 15%!important;
 }
 .container-fluid.content{
+    text-align: center;
     padding: 7% 15% !important;
 } 
 .cel{
@@ -161,6 +162,7 @@ body{
 
 /* ----CARDS----- */
 #products{
+    text-align: center;
     font-family: "Ubuntu";
     color: #3d3357 !important;
     padding: 7% 15%;
@@ -173,6 +175,7 @@ body{
     transition: transform 0.3s ease;
 }
 .cardTitulo{
+    
     font-family: "Ubuntu";
     color: #725a2c;
     margin: 0%;
@@ -194,6 +197,7 @@ body{
     margin: 20px;
 }
 #cta{
+    text-align: center;
     background-color: #fad9c1;
     padding: 7% 15%;
 }
@@ -206,6 +210,7 @@ body{
     font-weight: 900; 
 }
 #footer{
+    text-align: center;
     padding: 3% 15%;
 }
 .social-icon{
